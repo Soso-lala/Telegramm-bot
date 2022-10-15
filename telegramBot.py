@@ -33,4 +33,4 @@ def GrayScale(message):
 
 tokenName.polling(non_stop=True)
 
-privet
+
