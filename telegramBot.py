@@ -32,3 +32,5 @@ def GrayScale(message):
     tokenName.send_message(message.chat.id, image)
 
 tokenName.polling(non_stop=True)
+
+privet
